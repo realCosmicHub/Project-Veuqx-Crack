@@ -1,0 +1,38 @@
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗    ██╗   ██╗███████╗██╗   ██╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝    ██║   ██║██╔════╝██║   ██║██╔═══██╗╚██╗██╔╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║       ██║   ██║█████╗  ██║   ██║██║   ██║ ╚███╔╝ 
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║       ╚██╗ ██╔╝██╔══╝  ██║   ██║██║▄▄ ██║ ██╔██╗ 
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║        ╚████╔╝ ███████╗╚██████╔╝╚██████╔╝██╔╝ ██╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝         ╚═══╝  ╚══════╝ ╚═════╝  ╚══▀▀═╝ ╚═╝  ╚═╝
+                                                                                                         
+
+STEP: 1
+Download revo uninstaller: https://www.revouninstaller.com/start-freeware-download/
+And Delet All Apps: Rockstar, Xbox, FiveM, You Phone, Microsoft
+
+STEP: 2
+Download Steam - Login to a new account!
+Download Discord - Login to a new account!
+Download Rockstar Games - Login to a new rockstar
+Download VPN - https://protonvpn.com , or https://my.nordaccount.com/
+
+STEP: 3
+Go to - www.windowscentral.com/how-disable-automatic-driver-updates-windows-10
+Disable automatic driver updates
+Download DDU and uninstall your GPU + restart
+Once your GPU is fully uninstalled go to: https://www.guru3d.com/files-details/geforce-431-60-whql-driver-download.html
+Now download the installer and install v431.60
+
+STEP: 4
+Update You Bios And Driver!
+Change You Network IP
+Reset Network Settings!
+Change Your Fully System
+
+STEP: 5
+Go into your 'C:\Windows\System32' folder and delete the following dll "nvml.dll"
+Download a VPN (proton VPN)
+Connect to a VPN server!
+Open Project Veuqx and Spoof (Fully) You System and FiveM
+Download TMAC and change your mac address (change the one your currently connected to) Download: https://technitium.com/tmac/
+
